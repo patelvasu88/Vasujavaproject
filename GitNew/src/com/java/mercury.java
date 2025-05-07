@@ -8,4 +8,8 @@ public class mercury
 	
 		System.out.println("This is main method");
 	}
+	public void m1()
+	{
+		System.out.println();
+	}
 }
