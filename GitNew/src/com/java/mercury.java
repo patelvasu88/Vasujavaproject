@@ -15,7 +15,7 @@ public class mercury
 	public void m2()
 	{
 		System.out.println("This is m2 method");
-		System.out.println("Hello")
+		System.out.println("Hello World")
 	}
 	
 }
