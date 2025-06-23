@@ -1,6 +1,6 @@
 package com.java;
 
-public class Demojava 
+public Class Demojava 
 {
 
 	public static void main(String[] args) 
